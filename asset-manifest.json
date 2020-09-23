@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CodeBladers/static/css/main.bea2093f.chunk.css",
+    "main.css": "/CodeBladers/static/css/main.c8032d3c.chunk.css",
     "main.js": "/CodeBladers/static/js/main.828be021.chunk.js",
     "main.js.map": "/CodeBladers/static/js/main.828be021.chunk.js.map",
     "runtime-main.js": "/CodeBladers/static/js/runtime-main.31ae895f.js",
@@ -9,10 +9,10 @@
     "static/js/2.4eb64494.chunk.js": "/CodeBladers/static/js/2.4eb64494.chunk.js",
     "static/js/2.4eb64494.chunk.js.map": "/CodeBladers/static/js/2.4eb64494.chunk.js.map",
     "index.html": "/CodeBladers/index.html",
-    "precache-manifest.8f65adf0cff5f388c59b0d3854842c96.js": "/CodeBladers/precache-manifest.8f65adf0cff5f388c59b0d3854842c96.js",
+    "precache-manifest.137d4d6cde25a3d144cf72fbbab26788.js": "/CodeBladers/precache-manifest.137d4d6cde25a3d144cf72fbbab26788.js",
     "service-worker.js": "/CodeBladers/service-worker.js",
     "static/css/2.cd846464.chunk.css.map": "/CodeBladers/static/css/2.cd846464.chunk.css.map",
-    "static/css/main.bea2093f.chunk.css.map": "/CodeBladers/static/css/main.bea2093f.chunk.css.map",
+    "static/css/main.c8032d3c.chunk.css.map": "/CodeBladers/static/css/main.c8032d3c.chunk.css.map",
     "static/js/2.4eb64494.chunk.js.LICENSE.txt": "/CodeBladers/static/js/2.4eb64494.chunk.js.LICENSE.txt",
     "static/media/error404.png": "/CodeBladers/static/media/error404.af0cb0cf.png"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.31ae895f.js",
     "static/css/2.cd846464.chunk.css",
     "static/js/2.4eb64494.chunk.js",
-    "static/css/main.bea2093f.chunk.css",
+    "static/css/main.c8032d3c.chunk.css",
     "static/js/main.828be021.chunk.js"
   ]
 }

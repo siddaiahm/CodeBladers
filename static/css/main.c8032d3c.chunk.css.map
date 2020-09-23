@@ -1,0 +1,1 @@
+{"version":3,"sources":["home.css"],"names":[],"mappings":"AAAA,MACE,WAAY,CACZ,WAAY,CACZ,6BAAoC,CACpC,UACF,CACA,qCACE,eACF","file":"main.c8032d3c.chunk.css","sourcesContent":[".logo {\n  width: 120px;\n  height: 30px;\n  background: rgba(255, 255, 255, 0.2);\n  float: left;\n}\n.site-layout .site-layout-background {\n  background: #fff;\n}\n"]}
